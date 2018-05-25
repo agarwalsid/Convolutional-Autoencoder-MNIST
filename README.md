@@ -1,2 +1,2 @@
 # Convolutional-Autoencoder-MNIST
-Convolutional Autoencoder to compress the MNIST dataset
+Convolutional Autoencoder to compress and denoise the MNIST dataset
